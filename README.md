@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Vick!
-- 📫 You can MD me on my Discord: imontash
+- 📫 You can MD me on my Discord: vickgb
 
 I am actively working on Backend services and automations
-
-Freedom for Venezuela 🇻🇪
 
 <!---
 vickgb/vickgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
